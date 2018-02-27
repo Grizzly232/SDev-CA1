@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\micha\Documents\GitHub\SDevCA1\play-java-seed\app\database\DatabaseJPA.java:7:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable emf[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class database.DatabaseJPA[0m
+[0m[[0m[31merror[0m] [0m[0m	EntityManager em = emf.createEntityManager();[0m
